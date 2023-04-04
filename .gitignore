@@ -1,4 +1,5 @@
 *.mtx
-symgs/symgs-test 
-spmv/spmv-test 
-smith-waterman/sw-test
+symgs-test 
+
+gpu101_report/*
+!gpu101_report/gpu101_report.pdf
